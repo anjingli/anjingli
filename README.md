@@ -1,5 +1,7 @@
-hello, nice to meet you!
-i'm anjing and i have experience w/ web development using React, Node, JS, HTML, and CSS.
-i work mainly w/ front-end development, but i'm hoping to do more of a full-stack role in the future and work w/ more back-end technologies!
-check out projects i have on my resume located on my website; the devposts and websites i have worked on are live.
-take care! <3
+*hello, nice to meet you!*  
+
+i'm anjing and i have experience w/ **web development** using **React**, **JS**, **MySQL**, **Node**, **HTML**, and **CSS**. 🖥️  
+i've worked as a full-stack web application intern, and most of my projects are front-end focused—currently learning more about **back-end**!  
+check out **projects** i have on my resume located on my **[website](https://anjingli.github.io/)**; the devposts and websites i have worked on are live. 🪐  
+
+*take care!* 💜  
